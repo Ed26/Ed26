@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ed26
 - 👀 I’m interested in Frontend Web Development with HTML, CSS, and JS
 - 🌱 I’m currently learning Frontend Web.Development with General Assembly
-- 💞️ I’m looking to collaborate on web page design and development as well as (or including) blockchain related development
+- 💞️ I’m looking to collaborate on web page design and development as well as (or including) blockchain R&D
 - 📫 How to reach me wayneedhouse@hotmail.com...
 
 <!---
